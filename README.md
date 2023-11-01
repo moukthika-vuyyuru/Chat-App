@@ -7,7 +7,7 @@ This project is a simple chat room application implemented using Spring Boot for
 Before you begin, ensure you have met the following requirements:
 - You have installed Java 11 or later.
 - You have a basic understanding of Spring framework concepts.
-- (Optional) You have installed an IDE (like IntelliJ IDEA, Eclipse, or any preferred one).
+- (Optional) You have installed an IDE (like IntelliJ IDEA, Eclipse, or any preferred one)
 
 ## Running the Chat Room Application
 

@@ -7,17 +7,17 @@ This project is a simple chat room application implemented using Spring Boot for
 Before you begin, ensure you have met the following requirements:
 - You have installed Java 11 or later.
 - You have a basic understanding of Spring framework concepts.
-- (Optional) You have installed an IDE (like IntelliJ IDEA, Eclipse, or any preferred one).
+- (Optional) You have installed an IDE (like IntelliJ IDEA, Eclipse, or any preferred one)
 
 ## Running the Chat Room Application
 
-To run the Chat Room Application, follow these steps:
+To run the Chat Room Application, follow these steps -
 
 1. Clone the repository to your local machine or download the source code.
 2. Open a terminal and navigate to the project directory.
 3. Run the following command to start the Spring Boot application:
 ```./mvnw spring-boot:run```
-or if you are using Maven directly,
+or if you are using Maven directly
 ```mvn spring-boot:run```
 
 Alternatively, you can run the application from your IDE by importing the project and running it directly.
